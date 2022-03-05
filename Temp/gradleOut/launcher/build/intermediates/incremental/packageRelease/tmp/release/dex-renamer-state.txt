@@ -1,0 +1,4 @@
+#Sat Mar 05 18:39:32 EST 2022
+base.0=/Users/jtsan/UnityProjects/cs67 arvr/normcoreXRRig/Temp/gradleOut/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

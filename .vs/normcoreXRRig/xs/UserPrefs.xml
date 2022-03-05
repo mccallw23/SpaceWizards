@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{7A67E07D-90C4-8A94-4AEF-A5151EC4C8F3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerName.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Swimmer.cs" Line="39" Column="26" />
+      <File FileName="Library/PackageCache/com.unity.xr.interaction.toolkit@2.0.0/Runtime/Interaction/XRInteractionManager.cs" />
+      <File FileName="Assets/GameManagerScript.cs" Line="19" Column="1" />
+      <File FileName="Assets/Scripts/PlayerModel.cs" Line="14" Column="18" />
+      <File FileName="Assets/Scripts/Player.cs" Line="61" Column="37" />
+      <File FileName="Assets/Scripts/UpdateLocalPlayer.cs" Line="27" Column="35" />
+      <File FileName="Assets/Scripts/PlayerName.cs" Line="7" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="normcoreXRRig" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="PlayerName.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="11805390-eeae-440e-b64f-ce7ca1e14845" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
